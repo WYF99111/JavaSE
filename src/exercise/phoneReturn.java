@@ -13,7 +13,7 @@ public class phoneReturn {
         one.price=8388.0;
         one.color="玫瑰金";
         return one;
-//        当使用一个对象类型作为方法的返回值时：返回值其实就是对象的地址值
+       //当使用一个对象类型作为方法的返回值时：返回值其实就是对象的地址值
     }
 
 }
